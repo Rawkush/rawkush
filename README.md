@@ -2,23 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=rawkush&label=PROFILE+VIEWS&style=plastic)
 
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-9654
-Fork on GitHub
-2317
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
-<h1 align="center">Hi 👋, I'm Ankush Rawat</h1>
+g<h1 align="center">Hi 👋, I'm Ankush Rawat</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rawkush&label=Profile%20views&color=0e75b6&style=flat" alt="rawkush" /> </p>
@@ -53,28 +37,3 @@ preview
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rawkush&show_icons=true&locale=en" alt="rawkush" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rawkush&" alt="rawkush" /></p>
-
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-github profile markdown generator logo
-GitHub Profile README Generator
-Pages
-Addons
-Support
-About
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee

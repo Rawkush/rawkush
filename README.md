@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://twitter.com/rawkush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rawkush" height="30" width="40" /></a>
 <a href="https://kaggle.com/rawkush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rawkush" height="30" width="40" /></a>
-<a href="https://instagram.com/rawwkush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rawwkush" height="30" width="40" /></a>
+<a href="https://instagram.com/rawkushh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rawwkush" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/rawkush" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rawkush" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/rawkush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rawkush" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/rawkush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rawkush" height="30" width="40" /></a>

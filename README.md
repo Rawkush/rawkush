@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=rawkush&label=PROFILE+VIEWS&style=plastic)
-
 <h1 align="center">Hi 👋, I'm Ankush Rawat</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
